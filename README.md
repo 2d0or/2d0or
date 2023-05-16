@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2d0or
-- 👀 When I'm not ocding I'm: snowboarding and doing astrophotography 
+- 👀 When I'm not coding I'm: snowboarding and doing astrophotography 
 - 🌱 I’m currently learning python
 - 📫 How to reach me? Instagram: @cazacu_tudor
 
